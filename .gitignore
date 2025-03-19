@@ -1,0 +1,33 @@
+# macOS system files
+.DS_Store
+
+# Node.js related files
+node_modules/
+
+# Python related files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Java compilation files
+*.class
+
+# IDE configuration files (e.g., IntelliJ IDEA, JetBrains, etc.)
+.idea/
+
+# Visual Studio Code settings folder
+.vscode/
+
+# Temporary files
+*.log
+*.bak
+*.swp
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+
+# Build output directories
+dist/
+build/
