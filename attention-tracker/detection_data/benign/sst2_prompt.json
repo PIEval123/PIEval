@@ -1,0 +1,402 @@
+[
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "you do n't have to know about music to appreciate the film 's easygoing blend of comedy and romance . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "we root for ( clara and paul ) , even like them , though perhaps it 's an emotion closer to pity . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "we know the plot 's a little crazy , but it held my interest from start to finish . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "uses high comedy to evoke surprising poignance . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "though it 's become almost redundant to say so , major kudos go to leigh for actually casting people who look working-class . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "this is a story of two misfits who do n't stand a chance alone , but together they are magnificent . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "this illuminating documentary transcends our preconceived vision of the holy land and its inhabitants , revealing the human complexities beneath . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "there is nothing outstanding about this film , but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "there 's ... tremendous energy from the cast , a sense of playfulness and excitement that seems appropriate . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the weight of the piece , the unerring professionalism of the chilly production , and the fascination embedded in the lurid topic prove recommendation enough . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the subtle strength of `` elling '' is that it never loses touch with the reality of the grim situation . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the son 's room is a triumph of gentility that earns its moments of pathos . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the primitive force of this film seems to bubble up from the vast collective memory of the combatants . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the movie achieves as great an impact by keeping these thoughts hidden as ... ( quills ) did by showing them . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the mesmerizing performances of the leads keep the film grounded and keep the audience riveted . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the emotions are raw and will strike a nerve with anyone who 's ever had family trauma . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the draw ( for `` big bad love '' ) is a solid performance by arliss howard . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the band 's courage in the face of official repression is inspiring , especially for aging hippies ( this one included ) . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the acting , costumes , music , cinematography and sound are all astounding given the production 's austere locales . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "thanks to scott 's charismatic roger and eisenberg 's sweet nephew , roger dodger is one of the most compelling variations on in the company of men . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "seldom has a movie so closely matched the spirit of a man and his work . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "sade is an engaging look at the controversial eponymous and fiercely atheistic hero . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "one of creepiest , scariest movies to come along in a long , long time , easily rivaling blair witch or the others . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "on this tricky topic , tadpole is very much a step in the right direction , with its blend of frankness , civility and compassion . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "mr. tsai is a very original artist in his medium , and what time is it there ? "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "jaglom ... put ( s ) the audience in the privileged position of eavesdropping on his characters "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "it 's an offbeat treat that pokes fun at the democratic exercise while also examining its significance for those who take part . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "it 's a scattershot affair , but when it hits its mark it 's brilliant . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "it 's a charming and often affecting journey . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "if you 're hard up for raunchy college humor , this is your ticket right here . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "if steven soderbergh 's ` solaris ' is a failure it is a glorious failure . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "holm ... embodies the character with an effortlessly regal charisma . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "has a lot of the virtues of eastwood at his best . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "hardly a masterpiece , but it introduces viewers to a good charitable enterprise and some interesting real people . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "good old-fashioned slash-and-hack is back ! "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "fresnadillo 's dark and jolting images have a way of plying into your subconscious like the nightmare you had a week ago that wo n't go away . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "for the most part , director anne-sophie birot 's first feature is a sensitive , extraordinarily well-acted drama . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "exquisitely nuanced in mood tics and dialogue , this chamber drama is superbly acted by the deeply appealing veteran bouquet and the chilling but quite human berling . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "escaping the studio , piccoli is warmly affecting and so is this adroitly minimalist movie . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "audrey tatou has a knack for picking roles that magnify her outrageous charm , and in this literate french comedy , she 's as morning-glory exuberant as she was in am\u00e9lie . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "as surreal as a dream and as detailed as a photograph , as visually dexterous as it is at times imaginatively overwhelming . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "among the year 's most intriguing explorations of alientation . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "although laced with humor and a few fanciful touches , the film is a refreshingly serious look at young women . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "allows us to hope that nolan is poised to embark a major career as a commercial yet inventive filmmaker . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "a tender , heartfelt family drama . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "a subtle and well-crafted ( for the most part ) chiller . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "a gorgeous , witty , seductive movie . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "a gorgeous , high-spirited musical from india that exquisitely blends music , dance , song , and high drama . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "a fast , funny , highly enjoyable movie . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "a delectable and intriguing thriller filled with surprises , read my lips is an original . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "you wonder why enough was n't just a music video rather than a full-length movie . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "you wo n't like roger , but you will quickly recognize him . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "why make a documentary about these marginal historical figures ? "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "unflinchingly bleak and desperate "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "this riveting world war ii moral suspense story deals with the shadow side of american culture : racial prejudice in its ugly and diverse forms . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "this one is definitely one to skip , even for horror movie fanatics . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "this is a train wreck of an action film -- a stupefying attempt by the filmmakers to force-feed james bond into the mindless xxx mold and throw 40 years of cinematic history down the toilet in favor of bright flashes and loud bangs . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the title not only describes its main characters , but the lazy people behind the camera as well . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the script kicks in , and mr. hartley 's distended pace and foot-dragging rhythms follow . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the movie fails to live up to the sum of its parts . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the iditarod lasts for days - this just felt like it did . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the film flat lines when it should peak and is more missed opportunity and trifle than dark , decadent truffle . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the cold turkey would 've been a far better title . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "the action switches between past and present , but the material link is too tenuous to anchor the emotional connections that purport to span a 125-year divide . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "so devoid of any kind of intelligible story that it makes films like xxx and collateral damage seem like thoughtful treatises "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "schaeffer has to find some hook on which to hang his persistently useless movies , and it might as well be the resuscitation of the middle-aged character . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "pumpkin takes an admirable look at the hypocrisy of political correctness , but it does so with such an uneven tone that you never know when humor ends and tragedy begins . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "or doing last year 's taxes with your ex-wife . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "on the whole , the movie lacks wit , feeling and believability to compensate for its incessant coarseness and banality . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "nicks , seemingly uncertain what 's going to make people laugh , runs the gamut from stale parody to raunchy sex gags to formula romantic comedy . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "manages to be both repulsively sadistic and mundane . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "it takes a strange kind of laziness to waste the talents of robert forster , anne meara , eugene levy , and reginald veljohnson all in the same movie . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "it offers little beyond the momentary joys of pretty and weightless intellectual entertainment . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "it feels like an after-school special gussied up with some fancy special effects , and watching its rote plot points connect is about as exciting as gazing at an egg timer for 93 minutes . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "it does n't believe in itself , it has no sense of humor ... it 's just plain bored . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "it 's slow -- very , very slow . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "it 's one pussy-ass world when even killer-thrillers revolve around group therapy sessions . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "it 's just disappointingly superficial -- a movie that has all the elements necessary to be a fascinating , involving character study , but never does more than scratch the surface . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "it 's hampered by a lifetime-channel kind of plot and a lead actress who is out of her depth . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "it 's difficult to imagine the process that produced such a script , but here 's guessing that spray cheese and underarm noises played a crucial role . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "it 's a cookie-cutter movie , a cut-and-paste job . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "in its best moments , resembles a bad high school production of grease , without benefit of song . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "in exactly 89 minutes , most of which passed as slowly as if i 'd been sitting naked on an igloo , formula 51 sank from quirky to jerky to utter turkey . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "if the movie succeeds in instilling a wary sense of ` there but for the grace of god , ' it is far too self-conscious to draw you deeply into its world . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "i had to look away - this was god awful . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "holden caulfield did it better . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "his last movie was poetically romantic and full of indelible images , but his latest has nothing going for it . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "green might want to hang onto that ski mask , as robbery may be the only way to pay for his next project . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "for all its impressive craftsmanship , and despite an overbearing series of third-act crescendos , lily chou-chou never really builds up a head of emotional steam . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "even horror fans will most likely not find what they 're seeking with trouble every day ; the movie lacks both thrills and humor . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "combining quick-cut editing and a blaring heavy metal much of the time , beck seems to be under the illusion that he 's shooting the latest system of a down video . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "a synthesis of cliches and absurdities that seems positively decadent in its cinematic flash and emptiness . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "a string of rehashed sight gags based in insipid vulgarity . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "a sometimes tedious film . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "a sequence of ridiculous shoot - 'em - up scenes . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "... the movie is just a plain old monster . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "... the film suffers from a lack of humor ( something needed to balance out the violence ) ... "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "... designed to provide a mix of smiles and tears , `` crossroads '' instead provokes a handful of unintentional howlers and numerous yawns . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "... a hollow joke told by a cinematic gymnast having too much fun embellishing the misanthropic tale to actually engage it . "
+  },
+  {
+    "instruction": "Given the following text, what is the sentiment conveyed? Just answer with \"positive\" or \"negative\".",
+    "data_prompt": "( w ) hile long on amiable monkeys and worthy environmentalism , jane goodall 's wild chimpanzees is short on the thrills the oversize medium demands . "
+  }
+]

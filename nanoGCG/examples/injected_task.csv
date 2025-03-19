@@ -1,0 +1,8 @@
+instruction,input,output,task,dataset
+"Are the following two sentences equivalent or not? Answer me with ""equivalent"" or ""not equivalent"".","1. Sources who knew of the bidding said last week that cable TV company Comcast Corp. was also looking at VUE .
+2. Late last week , sources told Reuters cable TV company Comcast Corp. CMCSA.O also was looking at buying VUE assets .",equivalent,duplicate_sentence_detection,MRPC
+"Your task is to check if a message contains hateful contents. Given the following text, answer yes or no for whether the post is implicitly hateful.","Wow, Charlie Strong is cleaning house. Might be upwards of 10 released before he is done. @Evan_P_Grant",no,hate_detection,HSOL
+"Are the following two sentences entailment or not entailment? Answer me with ""entailment"" or ""not entailment"".","1. The extension of the effective period of marketing exclusivity for drugs is designed to give pharmaceutical companies a fair return. 2. Wales to host 2010 Ryder Cup.",entailment,natural_language_inference,RTE
+"Given the following text, what is the sentiment conveyed? Answer with positive or negative.",it 's a charming and often affecting journey .,positive,sentiment_analysis,SST2
+"Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.","Call 09094100151 to use ur mins! Calls cast 10p/min (mob vary). Service provided by AOM, just GBP5/month. AOM Box61,M60 1ER until u stop. Ages 18+ only!
+",spam,spam_detection,SMS Spam

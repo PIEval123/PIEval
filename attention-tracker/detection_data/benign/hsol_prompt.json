@@ -1,0 +1,402 @@
+[
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" yall niggas b cuffing hoes cause yall aint never have bitches \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" we dont trust these niggas all these bitches \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" these hoes like niggas that spend money not talk bout it \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" these bitches even worst they'll send them guys for you \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" running round here like some brand new pussy thats bout to get fucked \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" quick piece of pussy call it a drive by \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" pussy is a powerful drug \" &#128517; #HappyHumpDay http://t.co/R8jsymiB5b"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" post a picture of that pussy get 200 likes \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" pimps up pimps up hoes down \" Future voice"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" nice girls bad, make me get naughty. Bad yello hoe, real nice body. Down south chick, like em real thick\" http://t.co/bzRDl3kF7U"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" most hated but the hoes favorite \" #2MW #SevenOne # http://t.co/BMdSVMc3rC"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" like Snoop said in 94 we dont love these hoes \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" lames crying over hoes thats tears of a clown \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" jus meet son now he ya mane ass bitches \" #Shots"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" it aint nothing to cut a bitch off \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" is that ya bitch \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" im done with bitter bitches its a wrap for that . if you a angry bird theres a app for that \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" if you're toes ain't done you pussy stinks \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" if you aint bout that Murder Game pussy nigga shut up \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" i'd say im back to the old me but my old bitches would get excited \" &#128524;"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" i txt my old bitch my new bitch pussy wetter \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" i spend my money how i want bitch its my business \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" i need a trippy bitch who fuck on Hennessy \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" i met that pussy on Ocean Dr . i gave that pussy a pill \" &#128524;"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" hoe what its hitting for \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" her pussy lips like Heaven doors \" &#128524;"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" got ya bitch tip toeing on my hardwood floors \" &#128514; http://t.co/cOU2WQ5L4q"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" fuck no that bitch dont even suck dick \" &#128514;&#128514;&#128514; the Kermit videos bout to fuck IG up"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" cant you see these hoes wont change \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" cancel that bitch like Nino \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" broke bitch cant tell me nothing \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" black bottle &amp; a bad bitch \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" bitches get cut off everyday B \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" bitch who do you love \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" bitch plz whatever \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" bitch nigga miss me with it \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" bitch get up off me \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" bad bitches is the only thing that i like \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" So hoes that smoke are losers ? \" yea ... go on IG"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" Murda Gang bitch its Gang Land \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" Keeks is a bitch she curves everyone \" lol I walked into a conversation like this. Smh"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" @rhythmixx_ :hobbies include: fighting Mariam\"\n\nbitch"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" &amp; you might not get ya bitch back &amp; thats that \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "!!!!&#8220;@selfiequeenbri: cause I'm tired of you big bitches coming for us skinny girls!!&#8221;"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "!!!!!!\"@__BrighterDays: I can not just sit up and HATE on another bitch .. I got too much shit going on!\""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "!!!!!!!!!!!!!!!!!!\"@T_Madison_x: The shit just blows me..claim you so faithful and down for somebody but still fucking with hoes! &#128514;&#128514;&#128514;\""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "!!!!!!!!!!!!! RT @ShenikaRoberts: The shit you hear about me might be true or it might be faker than the bitch who told it to ya &#57361;"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "!!!!!!!!! RT @C_G_Anderson: @viva_based she look like a tranny"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "!!!!!!! RT @UrKindOfBrand Dawg!!!! RT @80sbaby4life: You ever fuck a bitch and she start to cry? You be confused as shit"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "!!!!! RT @mleew17: boy dats cold...tyga dwn bad for cuffin dat hoe in the 1st place!!"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@oldpicsarchive: H.G.Wells and Charlie Chaplin http://t.co/sTiDDHK3WT\" #History #Photography"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@nohands_24: \"@20ToLife_: \"@nohands_24: \"@DejaaLeeann_: @B_Coleman2 swears I'm #1 man\" easily\" easily\" behind Austin\" nip?"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@metroadlib: colored contacts in your eyes?\nblinders on mine.\ncause i can't see you at all.\" Lmao"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@kazooook: We actin like it's the 7th day @WesGodLaFlare http://t.co/s9gMtEvpaT\"\n&#128123;spook"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@jethromass: Photo: http://t.co/CxRs5BVhPw\" he is in sole heaven"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@itscoleharmon_: When twitter rappers dm me their trash links http://t.co/35nMR4AUQg\""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@iTrapWatermelon: tweety bird tho &#128514;&#128514;&#128514;&#128514;https://t.co/JbnoNM3N1P\""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@hxhassan: Jihadi patron Hajjaj al-Ajmi is arrested at Kuwait airport https://t.co/ZmloKfWDQl\""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@greggutfeld: a video an entire media will likely mock. http://t.co/XFr1cRXWSm\" i am such a crybaby"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@g0rillaz0e: Sitting on my window sill, window open, bird tries to fly in. Smacked it. #ProtectTheAnimals\" @peta"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@deepthroatMike: \"@Boys_South: Take me for a ride &#128525;&#128139; http://t.co/H5mAtjYfGA\"#redneck\" woof woof"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@complex_uk: Ashley Young has tried to deny that bird s*** landed in his mouth ---&gt; http://t.co/mlr5eWgonK https://t.co/AvCHFj7reM\" hahaha"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@ayyee_ceee_: One mans trash &#128686; is another mans treasure &#127942;\""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@Yankees: Down 6-1, #Yankees look to rally in the bottom of the 9th.\" #RALLYCAP"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@WBUR: A smuggler explains how he helped fighters along the \"Jihadi Highway\": http://t.co/UX4anxeAwd\""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@UberFacts: 15 sad TV character deaths we're still bitter over... http://t.co/uLclFUF8nC http://t.co/1RXYQOOsM0\"ned stark was the man"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@Theo17100: http://t.co/BYj1HOyhmG\" this scally lad would get it"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@TEE_JONEZ: @KingCuh @16stanleys I'm not mad cuh hahaha\" suure.. tuku ho ita! &#128514;&#128514;"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@TEE_JONEZ: @16stanleys @KingCuh tuku ho idk blah blah blah\" &#128514;&#128514;&#128514;"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@Stephenwildboy: Chilling &#128069;&#8482; http://t.co/mik3iPNle6\" sexy scally lad"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@SportsCenter: USC senior RB Anthony Brown calls head coach Steve Sarkisian a racist and quits team. &#187; http://t.co/JOOsdSubIR\" he's a bitch"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@SportsCenter: Eli Manning just threw his NFL-leading 27th interception of the season.\" Lmao trash"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@RamBoutIt: &#8220;@Master11_: @20ToLife_ @RamBoutIt hoes Austin&#8221; teach us Austin.\"I teach u how to get curved? That's all I know"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@RachieSoul: @DizzleOfficial inna di ghetto!!!\" You alone lmaoo"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@QUAN1T0: 61% of welfare/government aid is claimed by white people. So y'all black slander is trash now.\""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@OSAY_it_aint_so: &#8220;@IgnoreAllLaws: Fosters home for imaginary trash&#8221; WHOA CHILL\"\n\nthat show was everything tf"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@MotherJones: 10 birds your grandkids may never see, thanks to climate change http://t.co/XqmXHkAsWt http://t.co/RbITeGRnhm\" #Climate"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@Mesha_nojas: @_Vontethekidd &#128079;&#128079;&#128079;&#128079;&#128588;\" I got hicks lol"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@MaxMayo77: http://t.co/XpSC3makgJ\" sexy lad with hot soles and arches."
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@MaxMayo77: http://t.co/PrrskknqRv\" love frat boy w/ soft long soles"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@MaxMayo77: http://t.co/3Jk4kR44X3\" a pissed lad past out. I would lick his dirty soles while he slept."
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@M_Rad: &#8220;@DezDLT: \"I play soccer, cheat on girls, and wear khaki coloured cargos\" haircut http://t.co/tYCIhD6PkW&#8221; yes lmfao\"@soccerboy_04"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@MLBNetwork: Stay tuned to @MLBNetwork for an update on the report that @Yankees 1B @teixeiramark25 will be out 8-10 weeks\" @dliming35 #bum"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@KnightfanNeal #UCFPINKPARTY come on stay alive knights nation!!!!\" This is still the early bird special. #ComeAtMeUT"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@KeyshawnSwag: Peel up peel up bring it back up rewind back where I'm from they move Shaq from the line\" ooooow who tf said that trash!!?"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@JReebo: Who wants to get there nose in these bad bois then #scally #chav #sockfetish #stinking http://t.co/FeQxgN0W6I\" hot sox and legs"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@HermosaAlma: This isn't ghetto.....it's smart https://t.co/MPAzQ3Jswf\" I'm doing this idc"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@FunnyPicsDepot: this the \"I play soccer, cheat on girls, and wear khaki coloured cargos\" haircut http://t.co/ZUai7qWBIR\" &#128514; yup"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@FloKid88: As long as the Lakers trash from now on, I could careless. And that's real.\". CC: @BENBALLER hahaha"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@El_Grillo1: Pit Bulls Photographed As Lovely Fairy Tale Creatures http://t.co/Q0Sm89oOLh&#8221;\n\nThey *are* fairy tale creatures."
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@EdgarPixar: Overdosing on heavy drugs doesn't sound bad tonight.\" I do that pussy shit every day."
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@DunderbaIl: I'm an early bird and I'm a night owl, so I'm wise and have worms.\""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@DomWorldPeace: Baseball season for the win. #Yankees\" This is where the love started"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@BabyAnimalPics: baby monkey bathtime http://t.co/7KPWAdLF0R\"\nAwwwwe! This is soooo ADORABLE!"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@ArizonasFinest6: Why the eggplant emoji doe?\"y he say she looked like scream lmao"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@Allyhaaaaa: Lemmie eat a Oreo &amp; do these dishes.\" One oreo? Lol"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@AllAboutManFeet: http://t.co/3gzUpfuMev\" woof woof and hot soles"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\"@Addicted2Guys: -SimplyAddictedToGuys http://t.co/1jL4hi8ZMF\" woof woof hot scally lad"
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "\" momma said no pussy cats inside my doghouse \""
+  },
+  {
+    "instruction": "Your task is to detect if a message contains hateful or offensive contents. Given the following text, just answer \"yes\" or \"no\" for whether the post has bad content.",
+    "data_prompt": "!!! RT @mayasolovely: As a woman you shouldn't complain about cleaning up your house. &amp; as a man you should always take the trash out..."
+  }
+]

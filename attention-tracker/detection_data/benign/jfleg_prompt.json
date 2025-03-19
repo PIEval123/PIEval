@@ -1,0 +1,402 @@
+[
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "if you want a product you give create a beautiful image around it if you want sell it . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Young has his own field and word on it hard , and do more benefits to the society . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "But YOU have to create these opportunities . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "It is true that consumers preffer to buy a product that has a lower price , but when international companies that has already the certification begins to send its market , people will preffer to consume theirs because the difference between prices is probbably not going to affect them to much . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "While at university , he might specialize in a subject , while still taking a number of diverse other courses . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Today , MBA students with a background in engineering are in high demand . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Thus in concordance with the above I agree whole heartedly that in twenty years there will be fewer cars in use than there are today . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Thus even today sex is considered as the least important topic in many parts of India . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Throughts our lives needs talk about our familys . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "this will the proof of speeding offense so that polices can easily catch them. . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "this shall effect in exams . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "so this test is very important with theirs . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "We have to know this problem it 's serious but almost people doens't know about this . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Third the butt it in hte front of the door of store to make the poeple see it even if it is not good "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Very soon they will run out at the current rate of utilisation . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "They try new things . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "because they spent time unmeaningful subjects . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "They make very high profits year after yaer and the numbers also increase year after year . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "They draw the consumers , like me , to purchase this great product with all these amazing ingredients and all that but actually they just sometimes make something up just to increase their sales . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "These are several opposing points I observed between lecture and passage . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "These activities make the community a better place to live in and inculcate these values in all the members . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "There can not be no bothering and no hazzle . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "There are several reason . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "and about the new information there is editors . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Then when we went to the Science Olympiad , she could have diverse knowledges about the subects and it was not new for her to think about new things . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "the school teachers there the one who take the future of youg genaration so we have to give them to get the better knowledge . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Students can focus on only a few subjects they are intwerested in and they will become an experts in those areas . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Specializing in one particular subject does not suit our life in this era which is characterized by diversity and innovation "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "some tour guide who will want to set maximum security make tour difficult because you will only have a wonderful view throught the bus . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "So the school try learning the students a bit in every science exist . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "So he took upon himself to narrow his research on this subject which was a mystery to the world . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "So I think we can not live if old people could not find siences and tecnologies and they did not developped . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Since most urban areas are occupied with cars , they are all facing up with an irresistible problem of air and noise pollution . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Secondly the place of the film must must be very clear and chir must be relax etc . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Second the amount of treasure locations are implausibly large . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Otherwise , it will be a problem for us to understand certain thing in life . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Others who do n't have this concept they will sell uncerfied wood . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Because one time you get success and next time will why not ? "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Nowadays , we need a person who are capable of all sorts of works . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Now we have all information around us . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Now I have outstanding scores . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "For not use car . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "becaese when we learn about some subjects we should have more information about what we study so that the student will get the information more easier and more better and this is my first reason . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Moreover , take risks teaches you to accept both winning and losing , that is the most important lesson one should learn in order to achieve any kind of objective . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Many studies over the last 5 0 years have shown that people who have fluoride in their drinking water are considerably have less cavities than people who have not drinking nonfluoridated water . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Likewise , The theory generating from the concept of memory is also not the appropriate way due to limited memory . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "He last choosed to learn truth . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "So It will be good situstion . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "It is obvious that after returning i was tired and the night is meant to sleep ! . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "It so expensive that only those people can do this besides of their allday living . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "It kept Anasazi from living in American Southwest by very high temparture ; it caused droughts . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "It figures Diana Krall wearing a Rolex watch and has a text that suggests that if the reader wants to belong to the restricted club , not necessarily of Rolex watch wearers , but of highly talented , sophisticated and competent artists , he or she should also have a Rolex . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "In today 's Compuer skill is first important life skill . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "If in this society who will not to do study they never concept there opportunity or ca n't understand any ideas so most of the important that in this situation and I also very interestion and also prefer that for the study material . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "In the lecture , however , professor oppose the reading statement . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "In the case of young people the best way is studying as hard as possible to get better grades so in the future they will have better chance to find better jobs . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Inorder to do this , they would need to learn additionally skills , either theoretical or practical , that would increase their understanding and future application of their chosen subject . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "In early industry , a lot of warker worked together . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "In a market economy the price must reflect costs of the product and consumer 's willingness to buy the product . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "image you salf you are wark in factory just to do one thing like pot taire on car if they fire you you will destroy , becouse u dont know more than pot taire in car . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "If we conseder an idea as a totally autonomous concept within the individual process of defining reality , I will state that ideas are useless , not being based on experience . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "If there are specialized docters , the docter has done the operation very often before , so he is really talented in his job . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "If every people thinks to learn and understand lots of scientifc subjects , any person will do not do it and as a result of this any science is n't imporeved . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "One person if do n't have good health that means so many things they could lost . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "I would like to initiate , myself , whatever I do on my trip to get much out of my trip . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "I will explain my points of views in the following paragraphs . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "I was very fast , my best time was 5 5 seconds in 4 0 0 hundred meters is a good time in or country . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "I want to talk about nocive or bad products like alcohol , hair spray and cigarrets . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "I think they have to get skill on it . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "I myself like to participate in kind of activities and meet many people who would like to do . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "I have several reason to support my choice . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "I never have stopped myself to think this , but this is a real possibility for the fucture . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "I did n't have self-confidence . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "And it was very easy to me to understand why he always brang bad marks at home . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "However , one student pointed out my mistakes . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "However , are these things all good to people ? "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Here was no promise of morning except that we looked up through the trees we saw how low the forest had swung . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "He thinks differently from other people and he succeded . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "He/she wants to know everything about the universe , wants to know everything about the God , the death etc. these some concepts that everyone can encourage a lot of ideas but the facts are not found yet . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "He mainly concetrate on the questions asked him at the time of interview . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "He knows that there is no return in his help to others . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Furthermore , my friends who are nineteen years old , drive their own car , and they would like to buy always another one . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "4:they have a big chance to prepare for their future life "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "For this reason , the number of cars would be decrease in the future . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "For example they can play football whenever they want but the olders can not . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Finally , fish farming relates to long term wastefulness whcih can pollute the sea . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Even though she does not have job , she also need car to use pick up her kids or go shopping . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Even though he knows the advertisement is unreal or looks to pretty he is going to buy the product . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Establishing connections with other researchers will open the door for new projects with other researchers . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "but most time it is important because most student is not baly and his think and ideas is very important . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "But in other waythismakes other way country need to pay extra money to make , repair the roads What they did is reduce the amount of gas consumers , high the gas tax , and low the income tax because they thought , only rise the gas tax is unfair . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Both of these men have dealed with situations in an unconventional manner and the results are with everyone to see . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Because the fashional culture has been changed . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "As the cities were smallers , it was less violence , noise , traffic ... "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "And young people spend time more ther lifestile . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "and will put you maind on a non-stop learning ... "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Also the work of the media , television , magazines , and every stuff made for publicity affects the emotions of many people around the world , encouraging them to buy and buy anything they can . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Also , I have traveled in a group without tour guide . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "Beacuse all those broad knowledge help they to understand their major in university as well as help they to make a correct choice in specializing study . "
+  },
+  {
+    "instruction": "You are an English grammatical error correction tool that can correct grammatical errors in a text. Now, please correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible, and just show the final corrected sentence starts with \"answer:\".",
+    "data_prompt": "actually that was so unstable trip . "
+  }
+]
