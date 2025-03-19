@@ -1,9 +1,0 @@
-[submodule "Open-Prompt-Injection"]
-	path = Open-Prompt-Injection
-	url = https://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@github.com/PIEval123/PIEval.git
-[submodule "attention-tracker"]
-	path = attention-tracker
-	url = https://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@github.com/PIEval123/PIEval.git
-[submodule "nanoGCG"]
-	path = nanoGCG
-	url = https://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@github.com/PIEval123/PIEval.git
