@@ -1,0 +1,6 @@
+gpt-4-1106-preview:
+    - client_class: "openai.AzureOpenAI" 
+      azure_deployment: "gpt-4" 
+      api_version: "API_VERSION" 
+      api_key: "YOUR-API-KEY"
+      azure_endpoint: "https://YOUR-RESOURCE-NAME.cognitiveservices.azure.com/"
