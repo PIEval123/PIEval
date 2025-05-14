@@ -16,6 +16,8 @@
 - **`model`**: Targeted LLM. Options:  
   - `llama3_secalign` (Llama-3-8B-SecAlign)  
   - `llama3_struq` (Llama-3-8B-StruQ)  
+  - `llama3_instruct_secalign` (Llama-3-8B-Instruct-SecAlign)  
+  - `llama3_instruct_struq` (Llama-3-8B-Instruct-StruQ)  
   - `llama3_base` (Llama-3-8B-undefended)  
   - `llama3_instruct` (Llama-3-8B-Instruct)  
 - **`separator_loc`**: Location of separator. Options:  

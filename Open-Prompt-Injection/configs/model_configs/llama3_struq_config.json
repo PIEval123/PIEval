@@ -2,7 +2,7 @@
     "model_info": {
         "provider": "llama3",
         "name": "meta-llama/Meta-Llama-3-8B",
-        "path": "/home/<username>/PoisonedAlign/LLaMA-Factory/models/struq/Meta-Llama-3-8B_SpclSpclSpcl_NaiveCompletion_2024-08-09-12-55-56"
+        "path": "Path to the StruQ defended model"
     },
     "api_key_info": {
         "api_keys": [

@@ -6,9 +6,9 @@
     },
     "api_key_info":{
         "api_keys":[
-            ""
+            "658359a6ee634d19bce424ea96157f1d"
         ],
-        "endpoint": "",
+        "endpoint": "https://poison9166128928.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-15-preview",
         "api_key_use": 0
     },
     "params":{

@@ -1,8 +1,8 @@
 {
     "model_info": {
         "provider": "llama3",
-        "name": "meta-llama/Meta-Llama-3-8B",
-        "path": "Path to the Secalign defended model"
+        "name": "meta-llama/Meta-Llama-3-8B-Instruct",
+        "path": "Path to the StruQ defended instruct version model"
     },
     "api_key_info": {
         "api_keys": [
